@@ -1,0 +1,41 @@
+h1{
+    color: rgba(128, 0, 0, 0.604);
+}
+.header{
+    height: 200px;
+    margin-top:opxpx;
+    /* background-image:url(/baby-13525.png); */
+    /* background-image:url(../car-image/jakob-rosen-47PfqSThiTk-unsplash.jpg); */
+
+    background-image:url(/6.jpg) ;
+    background-size: 50%;
+    background-color: rgba(105, 196, 196, 0.689);
+    background-repeat: repeat;
+    background-blend-mode: multiply;
+    /* background-blend-mode: luminosity; */
+    
+    
+}
+span{
+    display:inline-block;
+    border: 2px solid red;
+    margin: 40px 40px 40px 40px;
+    padding: 40px;
+
+}
+ol li{
+    display:block;
+}
+.Blog{
+    background-color: chocolate;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    box-shadow: 10px 10px 10px gray;
+    padding:20px;
+}
+h1{
+    text-decoration:overline rgb(167, 144, 14) ;
+}
+p{
+    color: rgb(18, 133, 97);
+}

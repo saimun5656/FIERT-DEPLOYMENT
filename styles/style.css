@@ -6,15 +6,11 @@ h1{
     margin-top:0px;
     /* background-image:url(/baby-13525.png); */
     /* background-image:url(../car-image/jakob-rosen-47PfqSThiTk-unsplash.jpg); */
-
-    background-image:url(/images/html.png) ;
+    background-image:url(../images/html.png) ;
     background-size:contain;
     background-color: rgba(105, 196, 196, 0.689);
-    background-repeat: repeat;
-    background-blend-mode: multiply;
-    /* background-blend-mode: luminosity; */
-    
-    
+    background-repeat: no-repeat;
+    background-blend-mode: luminosity;   
 }
 span{
     display:inline-block;
